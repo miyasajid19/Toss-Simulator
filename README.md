@@ -17,7 +17,7 @@ The game allows the player to simulate tossing a coin. It displays a random imag
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/miyasajid19/coin-toss-game.git
+   git clone https://github.com/miyasajid19/Toss-simulator.git
 
 
 2. Install the required dependencies:
